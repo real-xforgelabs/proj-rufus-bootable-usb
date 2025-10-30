@@ -1,5 +1,7 @@
 # X-Forge Labs — Create Bootable USB Drives in Windows with Rufus
 
+# Create Bootable USB Drives in Windows with Rufus
+
 **Purpose**
 Create bootable USB drives on Windows using Rufus — safely, quickly, and with reliable results.
 Works for any ISO; experts can adjust as needed.
@@ -8,7 +10,6 @@ Works for any ISO; experts can adjust as needed.
 
 ## 🚀 Quick Start
 
-0. **Youtube Tutorial** → Watch it only if you to see a visual guide.
 1. **Download Rufus (Standard or Portable)** → [https://github.com/pbatard/rufus/releases/download/v4.11/rufus-4.11.exe](https://github.com/pbatard/rufus/releases/download/v4.11/rufus-4.11.exe)
 2. **Plug in USB Drive (D:).**
 3. **Select ISO:**
@@ -28,16 +29,14 @@ Works for any ISO; experts can adjust as needed.
 
 ## 🧠 What This Does
 
-* Fixes confusion about boot modes and ISO tools
-* Automates correct boot setup
-* Keeps USB installers consistent across different operating system versions
+* Rufus installation on Windows
 
 ---
 
 ## 💾 Troubleshooting
 
 **USB Drive Not Detected**
-→ Open `compmgmt.msc` → Disk Management → Delete old partitions → Retry Rufus.
+→ Open `compmgmt.msc` → Disk Management → Check Drive Letters / Change /add/remove as needed → Retry Rufus.
 
 **Access Denied or Write Error**
 → Run Rufus as Administrator.
@@ -51,17 +50,6 @@ Rufus auto-detects, but manual choice:
 
 ---
 
-## 🗂️ Structure
-
-```
-/scripts     → n/a  
-/docs        → this guide  
-/assets      → screenshots (rufus-main.png, ready.png)  
-/releases    → optional PDF export
-```
-
----
-
 ## ⚙️ Requirements & Assumptions
 
 * Windows 10 or 11
@@ -70,14 +58,6 @@ Rufus auto-detects, but manual choice:
 * Internet connection required
 
 ---
-
-## 💬 Support & Credits
-
-Support Development:
-  
-☕ Buy Me a Coffee → [https://buymeacoffee.com/xforgelabs](https://buymeacoffee.com/xforgelabs)
-  
-🛒 Affiliate USB Drive → [https://amzn.to/4oLm1Bx](https://amzn.to/4oLm1Bx)
 
 ---
 
@@ -92,21 +72,43 @@ By using this guide, you agree to hold harmless and indemnify X-Forge Labs and a
 🔧 FIX: Create bootable USB drives on Windows using Rufus
 🎯 RESULT: Reliable installer USB
 📂 FILES: GitHub → [https://github.com/X-Forge-Labs/rufus-bootable-usb](https://github.com/X-Forge-Labs/rufus-bootable-usb)
-🛒 Extras → [https://gumroad.com/xforgelabs](https://gumroad.com/xforgelabs)
 
-💬 Support Development
-Buy Me a Coffee → [https://buymeacoffee.com/xforgelabs](https://buymeacoffee.com/xforgelabs)
+## 💬 Support
+
+Support Development:
+☕ Buy Me a Coffee → [https://buymeacoffee.com/xforgelabs](https://buymeacoffee.com/xforgelabs)
+🛒 Affiliate USB Drive → [https://amzn.to/4oLm1Bx](https://amzn.to/4oLm1Bx)
 
 ⏱️ Timestamps
 00:00 Intro
-00:10 Download Rufus
-00:25 Select ISO
-00:45 Start Process
-01:50 Result Demo
-02:10 Support / Outro
+00:10 Disclaimer
+00:30 Download Rufus
+01:40 Connect USB Drive
+02:30 Troubleshoot Missing USB Drive
+02:40 Disk Management Quick Overview
+03:25 Downloading an ISO
+04:00 Downloading an ISO
+03:25 Downloading an ISO
+04:25 Using Rufus to Create Bootable USB
+05:00 Rufus Settings Quick Overview
+05:35 Rufus Install and Verify Success
+06:00 Quick Note On How Long It Takes
+06:30 Verify Files On USB Stick
+06:40 Wrap Up, Plugs & Outro
 
 ---
 
+### 🔖 YouTube Tags
+
+rufus, create bootable usb, windows, windows 10, windows 11, operating system, usb installer, bootable drive, windows iso, rufus tutorial, tech guide, computer repair, windows setup, no bs tutorial, x forge labs, os installation, usb creation, step by step, beginner friendly, boot media
+
+
+⚠️ Legal Disclaimer
+All guides, scripts, and materials provided by X-Forge Labs are for educational and informational purposes only.
+By using or distributing any material from X-Forge Labs, you agree to hold harmless and indemnify X-Forge Labs, its owners, and contributors from any claim, loss, or damage of any kind.
+Use at your own risk.
+You are solely responsible for ensuring compliance with applicable laws, regulations, and third-party software licenses.
+No warranty, express or implied, is provided regarding accuracy, reliability, or fitness for any purpose.
 ### 🔖 YouTube Tags
 
 rufus, create bootable usb, windows, windows 10, windows 11, operating system, usb installer, bootable drive, windows iso, rufus tutorial, tech guide, computer repair, windows setup, no bs tutorial, x forge labs, os installation, usb creation, step by step, beginner friendly, boot media
