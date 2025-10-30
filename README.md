@@ -1,7 +1,5 @@
 # X-Forge Labs — Create Bootable USB Drives in Windows with Rufus
 
-# Create Bootable USB Drives in Windows with Rufus
-
 **Purpose**
 Create bootable USB drives on Windows using Rufus — safely, quickly, and with reliable results.
 Works for any ISO; experts can adjust as needed.
