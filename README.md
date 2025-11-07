@@ -1,22 +1,23 @@
 ### 🎥 Video Description Block
-🔧 FIX: Create bootable USB drives on Windows using Rufus
-🎯 RESULT: Reliable installer USB
-📂 FILES: GitHub → [https://github.com/real-xforgelabs/proj-rufus-bootable-usb] 
+🔧 FIX: Create bootable USB drives on Windows using Rufus  
+🎯 RESULT: Reliable installer USB  
+📂 FILES: GitHub → [https://github.com/real-xforgelabs/proj-rufus-bootable-usb]  
+📂 VIDEO: Youtube → https://youtu.be/mjKzWAvoLTw  
 
-⏱️ Timestamps
-00:00 Intro
-00:10 Disclaimer
-00:30 Download Rufus
-01:40 Connect USB Drive
-02:30 Troubleshoot Missing USB Drive
-02:40 Disk Management Quick Overview
-03:25 Downloading an ISO
-04:25 Using Rufus to Create Bootable USB
-05:00 Rufus Settings Quick Overview
-05:35 Rufus Install and Verify Success
-06:00 Quick Note On How Long It Takes
-06:30 Verify Files On USB Stick
-06:40 Wrap Up, Plugs & Outro
+⏱️ Timestamps  
+00:00 Intro  
+00:10 Disclaimer  
+00:30 Download Rufus  
+01:40 Connect USB Drive  
+02:30 Troubleshoot Missing USB Drive  
+02:40 Disk Management Quick Overview  
+03:25 Downloading an ISO  
+04:25 Using Rufus to Create Bootable USB  
+05:00 Rufus Settings Quick Overview  
+05:35 Rufus Install and Verify Success  
+06:00 Quick Note On How Long It Takes  
+06:30 Verify Files On USB Stick  
+06:40 Wrap Up, Plugs & Outro  
 
 ---
 
